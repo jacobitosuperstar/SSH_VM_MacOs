@@ -12,7 +12,8 @@ I gathered this steps by checking several guides and comments in the forums on h
 
 cd ~/VirtualBox\ VMs/
 
-# Change these variables as needed
+***Change these variables as needed
+
 VM_NAME=“gnuradio”
 UBUNTU_ISO_PATH=~/Downloads/ubuntu-18.04.1-server-amd64.iso
 VM_HD_PATH="UbuntuServer.vdi" # The path to VM hard disk (to be created).
